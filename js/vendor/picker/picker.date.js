@@ -1,7 +1,7 @@
 
 /*!
  * Date picker for pickadate.js v3.5.4
- * http://amsul.github.io/pickadate.js/date.htm
+ * https://amsul.github.io/pickadate.js/date.htm
  */
 
 (function ( factory ) {
