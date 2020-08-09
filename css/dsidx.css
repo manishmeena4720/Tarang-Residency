@@ -1,7 +1,7 @@
 /*! jQuery UI - v1.10.3 - 2013-10-01
-* http://jqueryui.com
+* https://jqueryui.com
 * Includes: jquery.ui.core.css, jquery.ui.resizable.css, jquery.ui.selectable.css, jquery.ui.accordion.css, jquery.ui.autocomplete.css, jquery.ui.button.css, jquery.ui.datepicker.css, jquery.ui.dialog.css, jquery.ui.menu.css, jquery.ui.progressbar.css, jquery.ui.slider.css, jquery.ui.spinner.css, jquery.ui.tabs.css, jquery.ui.tooltip.css, jquery.ui.theme.css
-* To view and modify this theme, visit http://jqueryui.com/themeroller/?ffDefault=Verdana%2CArial%2Csans-serif&fwDefault=normal&fsDefault=1.1em&cornerRadius=4px&bgColorHeader=cccccc&bgTextureHeader=highlight_soft&bgImgOpacityHeader=75&borderColorHeader=aaaaaa&fcHeader=222222&iconColorHeader=222222&bgColorContent=ffffff&bgTextureContent=flat&bgImgOpacityContent=75&borderColorContent=aaaaaa&fcContent=222222&iconColorContent=222222&bgColorDefault=e6e6e6&bgTextureDefault=glass&bgImgOpacityDefault=75&borderColorDefault=d3d3d3&fcDefault=555555&iconColorDefault=888888&bgColorHover=dadada&bgTextureHover=glass&bgImgOpacityHover=75&borderColorHover=999999&fcHover=212121&iconColorHover=454545&bgColorActive=ffffff&bgTextureActive=glass&bgImgOpacityActive=65&borderColorActive=aaaaaa&fcActive=212121&iconColorActive=454545&bgColorHighlight=fbf9ee&bgTextureHighlight=glass&bgImgOpacityHighlight=55&borderColorHighlight=fcefa1&fcHighlight=363636&iconColorHighlight=2e83ff&bgColorError=fef1ec&bgTextureError=glass&bgImgOpacityError=95&borderColorError=cd0a0a&fcError=cd0a0a&iconColorError=cd0a0a&bgColorOverlay=aaaaaa&bgTextureOverlay=flat&bgImgOpacityOverlay=0&opacityOverlay=30&bgColorShadow=aaaaaa&bgTextureShadow=flat&bgImgOpacityShadow=0&opacityShadow=30&thicknessShadow=8px&offsetTopShadow=-8px&offsetLeftShadow=-8px&cornerRadiusShadow=8px
+* To view and modify this theme, visit https://jqueryui.com/themeroller/?ffDefault=Verdana%2CArial%2Csans-serif&fwDefault=normal&fsDefault=1.1em&cornerRadius=4px&bgColorHeader=cccccc&bgTextureHeader=highlight_soft&bgImgOpacityHeader=75&borderColorHeader=aaaaaa&fcHeader=222222&iconColorHeader=222222&bgColorContent=ffffff&bgTextureContent=flat&bgImgOpacityContent=75&borderColorContent=aaaaaa&fcContent=222222&iconColorContent=222222&bgColorDefault=e6e6e6&bgTextureDefault=glass&bgImgOpacityDefault=75&borderColorDefault=d3d3d3&fcDefault=555555&iconColorDefault=888888&bgColorHover=dadada&bgTextureHover=glass&bgImgOpacityHover=75&borderColorHover=999999&fcHover=212121&iconColorHover=454545&bgColorActive=ffffff&bgTextureActive=glass&bgImgOpacityActive=65&borderColorActive=aaaaaa&fcActive=212121&iconColorActive=454545&bgColorHighlight=fbf9ee&bgTextureHighlight=glass&bgImgOpacityHighlight=55&borderColorHighlight=fcefa1&fcHighlight=363636&iconColorHighlight=2e83ff&bgColorError=fef1ec&bgTextureError=glass&bgImgOpacityError=95&borderColorError=cd0a0a&fcError=cd0a0a&iconColorError=cd0a0a&bgColorOverlay=aaaaaa&bgTextureOverlay=flat&bgImgOpacityOverlay=0&opacityOverlay=30&bgColorShadow=aaaaaa&bgTextureShadow=flat&bgImgOpacityShadow=0&opacityShadow=30&thicknessShadow=8px&offsetTopShadow=-8px&offsetLeftShadow=-8px&cornerRadiusShadow=8px
 * Copyright 2013 jQuery Foundation and other contributors; Licensed MIT */
 .ui-helper-hidden {
     display: none
@@ -860,7 +860,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget.ui-widget-content {
     border: 1px solid #aaa;
-    background: #fff url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_flat_75_ffffff_40x100.png/c666d5) 50% 50% repeat-x;
+    background: #fff url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_flat_75_ffffff_40x100.png/c666d5) 50% 50% repeat-x;
     color: #222
 }
 
@@ -870,7 +870,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget.ui-widget-header {
     border: 1px solid #aaa;
-    background: #ccc url(http://cdn3.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_highlight-soft_75_cccccc_1x100.png/7e7ddc) 50% 50% repeat-x;
+    background: #ccc url(https://cdn3.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_highlight-soft_75_cccccc_1x100.png/7e7ddc) 50% 50% repeat-x;
     color: #222;
     font-weight: bold
 }
@@ -881,7 +881,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget .ui-state-default,.dsidx-ui-widget.ui-widget-content .ui-state-default,.dsidx-ui-widget.ui-widget-header .ui-state-default {
     border: 1px solid #d3d3d3;
-    background: #e6e6e6 url(http://cdn3.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_75_e6e6e6_1x400.png/ab6b68) 50% 50% repeat-x;
+    background: #e6e6e6 url(https://cdn3.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_75_e6e6e6_1x400.png/ab6b68) 50% 50% repeat-x;
     font-weight: normal;
     color: #555
 }
@@ -893,7 +893,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget .ui-state-hover,.dsidx-ui-widget.ui-widget-content .ui-state-hover,.dsidx-ui-widget.ui-widget-header .ui-state-hover,.dsidx-ui-widget .ui-state-focus,.dsidx-ui-widget.ui-widget-content .ui-state-focus,.dsidx-ui-widget.ui-widget-header .ui-state-focus {
     border: 1px solid #999;
-    background: #dadada url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_75_dadada_1x400.png/9a9ef7) 50% 50% repeat-x;
+    background: #dadada url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_75_dadada_1x400.png/9a9ef7) 50% 50% repeat-x;
     font-weight: normal;
     color: #212121
 }
@@ -905,7 +905,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget .ui-state-active,.dsidx-ui-widget.ui-widget-content .ui-state-active,.dsidx-ui-widget.ui-widget-header .ui-state-active {
     border: 1px solid #aaa;
-    background: #fff url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_65_ffffff_1x400.png/6bdaa4) 50% 50% repeat-x;
+    background: #fff url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_65_ffffff_1x400.png/6bdaa4) 50% 50% repeat-x;
     font-weight: normal;
     color: #212121
 }
@@ -917,7 +917,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget .ui-state-highlight,.dsidx-ui-widget.ui-widget-content .ui-state-highlight,.dsidx-ui-widget.ui-widget-header .ui-state-highlight {
     border: 1px solid #fcefa1;
-    background: #fbf9ee url(http://cdn3.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_55_fbf9ee_1x400.png/bcd758) 50% 50% repeat-x;
+    background: #fbf9ee url(https://cdn3.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_55_fbf9ee_1x400.png/bcd758) 50% 50% repeat-x;
     color: #363636
 }
 
@@ -927,7 +927,7 @@ body .ui-tooltip {
 
 .dsidx-ui-widget .ui-state-error,.dsidx-ui-widget.ui-widget-content .ui-state-error,.dsidx-ui-widget.ui-widget-header .ui-state-error {
     border: 1px solid #cd0a0a;
-    background: #fef1ec url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_95_fef1ec_1x400.png/7a6867) 50% 50% repeat-x;
+    background: #fef1ec url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_glass_95_fef1ec_1x400.png/7a6867) 50% 50% repeat-x;
     color: #cd0a0a
 }
 
@@ -965,31 +965,31 @@ body .ui-tooltip {
 }
 
 .dsidx-ui-widget .ui-icon,.dsidx-ui-widget.ui-widget-content .ui-icon {
-    background-image: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_222222_256x240.png/959bfc)
+    background-image: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_222222_256x240.png/959bfc)
 }
 
 .dsidx-ui-widget.ui-widget-header .ui-icon {
-    background-image: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_222222_256x240.png/959bfc)
+    background-image: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_222222_256x240.png/959bfc)
 }
 
 .dsidx-ui-widget .ui-state-default .ui-icon {
-    background-image: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_888888_256x240.png/826776)
+    background-image: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_888888_256x240.png/826776)
 }
 
 .dsidx-ui-widget .ui-state-hover .ui-icon,.dsidx-ui-widget .ui-state-focus .ui-icon {
-    background-image: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_454545_256x240.png/e6175e)
+    background-image: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_454545_256x240.png/e6175e)
 }
 
 .dsidx-ui-widget .ui-state-active .ui-icon {
-    background-image: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_454545_256x240.png/e6175e)
+    background-image: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_454545_256x240.png/e6175e)
 }
 
 .dsidx-ui-widget .ui-state-highlight .ui-icon {
-    background-image: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_2e83ff_256x240.png/eadcb9)
+    background-image: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_2e83ff_256x240.png/eadcb9)
 }
 
 .dsidx-ui-widget .ui-state-error .ui-icon,.dsidx-ui-widget .ui-state-error-text .ui-icon {
-    background-image: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_cd0a0a_256x240.png/dcda60)
+    background-image: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/icons/ui-icons_cd0a0a_256x240.png/dcda60)
 }
 
 .dsidx-ui-widget .ui-icon-blank {
@@ -1709,7 +1709,7 @@ body .ui-tooltip {
 }
 
 .dsidx-ui-widget.ui-widget-overlay {
-    background: #aaa url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_flat_0_aaaaaa_40x100.png/d60e67) 50% 50% repeat-x;
+    background: #aaa url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_flat_0_aaaaaa_40x100.png/d60e67) 50% 50% repeat-x;
     opacity: .3;
     filter: Alpha(Opacity=30)
 }
@@ -1717,7 +1717,7 @@ body .ui-tooltip {
 .dsidx-ui-widget.ui-widget-shadow {
     margin: -8px 0 0 -8px;
     padding: 8px;
-    background: #aaa url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_flat_0_aaaaaa_40x100.png/d60e67) 50% 50% repeat-x;
+    background: #aaa url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/icons/ui-bg_flat_0_aaaaaa_40x100.png/d60e67) 50% 50% repeat-x;
     opacity: .3;
     filter: Alpha(Opacity=30);
     border-radius: 8px
@@ -2070,51 +2070,51 @@ img.dsidx_cboxPhoto {
 }
 
 #dsidx_cboxOverlay {
-    background: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/overlay.png/8b0211) 0 0 repeat
+    background: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/overlay.png/8b0211) 0 0 repeat
 }
 
 #dsidx_cboxTopLeft {
     width: 21px;
     height: 21px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -100px 0 no-repeat
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -100px 0 no-repeat
 }
 
 #dsidx_cboxTopRight {
     width: 21px;
     height: 21px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -129px 0 no-repeat
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -129px 0 no-repeat
 }
 
 #dsidx_cboxBottomLeft {
     width: 21px;
     height: 21px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -100px -29px no-repeat
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -100px -29px no-repeat
 }
 
 #dsidx_cboxBottomRight {
     width: 21px;
     height: 21px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -129px -29px no-repeat
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -129px -29px no-repeat
 }
 
 #dsidx_cboxMiddleLeft {
     width: 21px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) left top repeat-y
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) left top repeat-y
 }
 
 #dsidx_cboxMiddleRight {
     width: 21px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) right top repeat-y
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) right top repeat-y
 }
 
 #dsidx_cboxTopCenter {
     height: 21px;
-    background: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/border.png/6e5bc9) 0 0 repeat-x
+    background: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/border.png/6e5bc9) 0 0 repeat-x
 }
 
 #dsidx_cboxBottomCenter {
     height: 21px;
-    background: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/border.png/6e5bc9) 0 -29px repeat-x
+    background: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/border.png/6e5bc9) 0 -29px repeat-x
 }
 
 #dsidx_cboxContent {
@@ -2152,7 +2152,7 @@ img.dsidx_cboxPhoto {
     position: absolute;
     bottom: 0;
     left: 0;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -75px 0 no-repeat;
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -75px 0 no-repeat;
     width: 25px;
     height: 25px;
     text-indent: -9999px
@@ -2166,7 +2166,7 @@ img.dsidx_cboxPhoto {
     position: absolute;
     bottom: 0;
     left: 27px;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -50px 0 no-repeat;
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -50px 0 no-repeat;
     width: 25px;
     height: 25px;
     text-indent: -9999px
@@ -2177,18 +2177,18 @@ img.dsidx_cboxPhoto {
 }
 
 #dsidx_cboxLoadingOverlay {
-    background: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/loading_background.png/acf427) center center no-repeat
+    background: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/loading_background.png/acf427) center center no-repeat
 }
 
 #dsidx_cboxLoadingGraphic {
-    background: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/loading.gif/e6611f) center center no-repeat
+    background: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/loading.gif/e6611f) center center no-repeat
 }
 
 #dsidx_cboxClose {
     position: absolute;
     bottom: 0;
     right: 0;
-    background: url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -25px 0 no-repeat;
+    background: url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/ds-colorbox/controls.png/e68738) -25px 0 no-repeat;
     width: 25px;
     height: 25px;
     text-indent: -9999px
@@ -2200,42 +2200,42 @@ img.dsidx_cboxPhoto {
 
 .cboxIE #dsidx_cboxTopLeft {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderTopLeft.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderTopLeft.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxTopCenter {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderTopCenter.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderTopCenter.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxTopRight {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderTopRight.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderTopRight.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxBottomLeft {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderBottomLeft.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderBottomLeft.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxBottomCenter {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderBottomCenter.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderBottomCenter.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxBottomRight {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderBottomRight.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderBottomRight.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxMiddleLeft {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderMiddleLeft.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderMiddleLeft.png,sizingMethod='scale')
 }
 
 .cboxIE #dsidx_cboxMiddleRight {
     background: transparent;
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=http://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderMiddleRight.png,sizingMethod='scale')
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src=https://localhost/images/dsIDXpress/ds-colorbox/internet_explorer/borderMiddleRight.png,sizingMethod='scale')
 }
 
 .ds-idx-listings-page .post-info,.ds-idx-listings-page .post-meta,.ds-idx-listings-page .post-info,.ds-idx-listings-page .entry-meta {
@@ -2273,7 +2273,7 @@ img.dsidx_cboxPhoto {
 }
 
 #dsidx-map-hover .dsidx-edge {
-    background-image: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/map-hover-container.png/206d4b);
+    background-image: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/map-hover-container.png/206d4b);
     position: absolute;
     height: 8px;
     width: 8px;
@@ -2341,7 +2341,7 @@ img.dsidx_cboxPhoto {
 }
 
 #dsidx-map-hover .dsidx-container .dsidx-inner-container {
-    background-image: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/map-hover-container.png/206d4b);
+    background-image: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/map-hover-container.png/206d4b);
     background-position: -7px -1px;
     color: #000
 }
@@ -3102,7 +3102,7 @@ body.dsidx .details-tab-schoolinfo-districts-disclaimer {
     height: 22px;
     margin: 0 5px 0 0!important;
     background-color: transparent;
-    background-image: url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/great-schools-rating.png/5b1cb9);
+    background-image: url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/great-schools-rating.png/5b1cb9);
     background-position: 0 0;
     background-repeat: no-repeat
 }
@@ -3164,7 +3164,7 @@ body.dsidx .details-tab-schoolinfo-districts-disclaimer {
     height: 13px;
     display: inline-block;
     background-color: transparent;
-    background-image: url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/great-schools-community.png/804538);
+    background-image: url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/great-schools-community.png/804538);
     background-position: 0 0;
     background-repeat: no-repeat
 }
@@ -3303,19 +3303,19 @@ body.dsidx .details-tab-schoolinfo-districts-disclaimer {
 #dsidx .dsidx-call-to-action {
     padding: 10px;
     text-align: center;
-    background: transparent url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg.png/72a077) left top repeat
+    background: transparent url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg.png/72a077) left top repeat
 }
 
 .dsidx-details .dsidx-table-header {
     border: 1px solid #ededed;
-    background: transparent url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg.png/72a077) left top repeat
+    background: transparent url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg.png/72a077) left top repeat
 }
 
 .dsidx-details .dsidx-headerbar {
     border-top: 1px solid #ededed;
     border-right: 1px solid #ededed;
     border-left: 1px solid #ededed;
-    background: transparent url(http://cdn4.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg.png/72a077) left top repeat;
+    background: transparent url(https://cdn4.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg.png/72a077) left top repeat;
     line-height: 27px
 }
 
@@ -3323,7 +3323,7 @@ body.dsidx .details-tab-schoolinfo-districts-disclaimer {
     border-top: 1px solid #0d6e0d;
     border-right: 1px solid #0d6e0d;
     border-left: 1px solid #0d6e0d;
-    background: transparent url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg-green.png/5aeceb) left top repeat;
+    background: transparent url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/listing-grid-bg-green.png/5aeceb) left top repeat;
     line-height: 27px
 }
 
@@ -3513,7 +3513,7 @@ body.dsidx #dsidx-similar-listings .dsidx-small-listing .dsidx-address,body.dsid
     width: 25px;
     height: 23px;
     margin-top: -12px;
-    background: #000 url(http://cdn1.diverse-cdn.com/api/images/dsidxpress/slideshow-leftright.png/4f3959) no-repeat left top;
+    background: #000 url(https://cdn1.diverse-cdn.com/api/images/dsidxpress/slideshow-leftright.png/4f3959) no-repeat left top;
     text-indent: 100%;
     white-space: nowrap;
     overflow: hidden
@@ -3568,7 +3568,7 @@ body.dsidx #dsidx-similar-listings .dsidx-small-listing .dsidx-address,body.dsid
     font-weight: normal;
     line-height: 1;
     color: #bebebe;
-    background: #5c5c5c url(http://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/photo-count.png/f1b58b) no-repeat 4px 3px;
+    background: #5c5c5c url(https://cdn2.diverse-cdn.com/api/images/dsidxpress/icons/photo-count.png/f1b58b) no-repeat 4px 3px;
     border-radius: 3px 0 0 3px
 }
 
